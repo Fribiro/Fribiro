@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/festus_ribiro" target="blank"><img src="https://img.shields.io/twitter/follow/festus_ribiro?logo=twitter&style=for-the-badge" alt="festus_ribiro" /></a> </p>
 
-- 🔭 My portfolio **festusribiro.com**
+- 🔭 My portfolio **www.festusribiro.com**
 
 - 📫 How to reach me **Festusribiro@gmail.com**
 
